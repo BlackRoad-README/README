@@ -1,8 +1,12 @@
-# Postgresql
+# Alice — PostgreSQL 13
 
-PostgreSQL database — structured data.
+Structured data storage. Localhost only (:5432).
 
-## Tunnel Links
+| Detail | Value |
+|--------|-------|
+| Port | 5432 |
+| Version | PostgreSQL 13 |
+| Binding | localhost only |
 
-- Root: [../../../../README.md](../../../../README.md)
-- Parent: [../ (alice)](../)
+→ [Alice overview](../)
+→ [Data/postgresql](../../../../data/databases/postgresql/)

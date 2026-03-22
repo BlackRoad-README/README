@@ -1,8 +1,13 @@
-# Minio
+# Cecilia — MinIO
 
-MinIO object storage — S3-compatible.
+S3-compatible object storage.
 
-## Tunnel Links
+| Detail | Value |
+|--------|-------|
+| Port | 9000 |
+| Console | 9001 |
+| Buckets | 4 |
+| Replaces | AWS S3 / Cloudflare R2 |
 
-- Root: [../../../../README.md](../../../../README.md)
-- Parent: [../ (cecilia)](../)
+→ [Cecilia overview](../)
+→ [Data/storage/minio](../../../../data/storage/minio/)

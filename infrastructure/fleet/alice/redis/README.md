@@ -1,8 +1,12 @@
-# Redis
+# Alice — Redis
 
-Redis cache — sessions, rate limiting.
+Cache, sessions, rate limiting. Localhost only (:6379).
 
-## Tunnel Links
+| Detail | Value |
+|--------|-------|
+| Port | 6379 |
+| Binding | localhost only |
+| Usage | Session cache, rate limiting, KV store |
 
-- Root: [../../../../README.md](../../../../README.md)
-- Parent: [../ (alice)](../)
+→ [Alice overview](../)
+→ [Data/redis](../../../../data/databases/redis/)

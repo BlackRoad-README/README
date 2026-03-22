@@ -1,8 +1,13 @@
-# Pihole
+# Alice — Pi-hole
 
-Pi-hole DNS filtering and ad blocking.
+DNS filtering and ad blocking for the entire fleet.
 
-## Tunnel Links
+| Detail | Value |
+|--------|-------|
+| DNS Port | 53 (TCP + UDP) |
+| Admin | :443 (HTTPS) |
+| Service | pihole-FTL |
+| NTP | :123 (embedded) |
 
-- Root: [../../../../README.md](../../../../README.md)
-- Parent: [../ (alice)](../)
+→ [Alice overview](../)
+→ [DNS](../../../network/dns/)

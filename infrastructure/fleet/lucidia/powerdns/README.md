@@ -1,8 +1,15 @@
-# Powerdns
+# Lucidia — PowerDNS
 
-PowerDNS — authoritative DNS server.
+Authoritative DNS server (ns2.blackroad.io).
 
-## Tunnel Links
+| Detail | Value |
+|--------|-------|
+| Container | road-pdns |
+| Admin | road-pdns-admin |
+| Database | road-dns-db |
+| Role | ns2 authoritative DNS |
+| Replaces | Cloudflare DNS |
 
-- Root: [../../../../README.md](../../../../README.md)
-- Parent: [../ (lucidia)](../)
+→ [Lucidia overview](../)
+→ [DNS](../../../network/dns/)
+→ [Gematria PowerDNS](../../gematria/powerdns/) (ns1)

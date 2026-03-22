@@ -1,8 +1,12 @@
-# Qdrant
+# Alice — Qdrant
 
-Qdrant vector database — semantic search.
+Vector database for semantic search and RAG.
 
-## Tunnel Links
+| Detail | Value |
+|--------|-------|
+| HTTP Port | 6333 |
+| gRPC Port | 6334 |
+| Usage | Vector embeddings, semantic search, RAG |
 
-- Root: [../../../../README.md](../../../../README.md)
-- Parent: [../ (alice)](../)
+→ [Alice overview](../)
+→ [Data/qdrant](../../../../data/databases/qdrant/)

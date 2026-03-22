@@ -1,8 +1,13 @@
-# Nats
+# Octavia — NATS
 
-NATS pub/sub messaging — agent coordination.
+Pub/sub messaging for agent coordination (CarPool system).
 
-## Tunnel Links
+| Detail | Value |
+|--------|-------|
+| Port | 4222 |
+| Container | blackroad-nats |
+| Version | v2.12.3 |
+| Usage | Agent coordination, fleet events, memory sync |
 
-- Root: [../../../../README.md](../../../../README.md)
-- Parent: [../ (octavia)](../)
+→ [Octavia overview](../)
+→ [Agents/coordination](../../../../agents/coordination/)

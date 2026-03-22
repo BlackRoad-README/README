@@ -1,8 +1,14 @@
-# Gitea
+# Octavia — Gitea
 
-Gitea self-hosted Git — 273 repositories.
+Self-hosted Git. PRIMARY repository host. GitHub is mirror.
 
-## Tunnel Links
+| Detail | Value |
+|--------|-------|
+| Port | 3100 |
+| Repos | 273 |
+| Container | blackroad-git |
+| Runner | gitea-runner (CI/CD) |
+| Replaces | GitHub ($21/user/mo) |
 
-- Root: [../../../../README.md](../../../../README.md)
-- Parent: [../ (octavia)](../)
+→ [Octavia overview](../)
+→ [Sovereignty](../../../sovereignty/)
