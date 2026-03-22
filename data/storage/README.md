@@ -1,6 +1,6 @@
 # Storage
 
-Part of the BlackRoad OS ecosystem.
+Object and file storage: MinIO (Cecilia), Cloudflare R2 (12 buckets), Cloudflare KV (55 namespaces), local filesystem.
 
 ## Contents
 
@@ -12,4 +12,3 @@ Part of the BlackRoad OS ecosystem.
 ## Tunnel Links
 
 - Root: [../../README.md](../../README.md)
-- Parent: [../ (data)](../)

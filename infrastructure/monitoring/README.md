@@ -1,6 +1,6 @@
 # Monitoring
 
-Part of the BlackRoad OS ecosystem.
+Monitoring stack: Prometheus for metrics, Grafana (RoadMap fork) for dashboards, InfluxDB for time-series, custom stats Workers for fleet aggregation. Health check every 5 minutes.
 
 ## Contents
 
@@ -13,4 +13,3 @@ Part of the BlackRoad OS ecosystem.
 ## Tunnel Links
 
 - Root: [../../README.md](../../README.md)
-- Parent: [../ (infrastructure)](../)

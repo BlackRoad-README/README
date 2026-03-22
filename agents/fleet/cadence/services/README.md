@@ -1,8 +1,7 @@
 # Services
 
-Running services and their configurations.
+Cadence's services are TBD. Will focus on content generation, scheduling, and narrative composition.
 
 ## Tunnel Links
 
 - Root: [../../../../README.md](../../../../README.md)
-- Parent: [../ (cadence)](../)

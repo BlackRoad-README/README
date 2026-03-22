@@ -1,6 +1,6 @@
 # Security
 
-Security scanning and vulnerability tests.
+Fleet security: firewall, SSH, secrets, audit, scanning, incident response. Zero-trust model. UFW on Lucidia (INPUT DROP). Ed25519 SSH keys across all nodes.
 
 ## Contents
 
@@ -14,4 +14,3 @@ Security scanning and vulnerability tests.
 ## Tunnel Links
 
 - Root: [../../README.md](../../README.md)
-- Parent: [../ (infrastructure)](../)

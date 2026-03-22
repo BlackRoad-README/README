@@ -1,6 +1,6 @@
 # Forks
 
-Part of the BlackRoad OS ecosystem.
+12 open-source dependencies forked into Gitea with road names (2.7GB+ total). Each fork has upstream attribution via NOTICE files.
 
 ## Contents
 
@@ -20,4 +20,3 @@ Part of the BlackRoad OS ecosystem.
 ## Tunnel Links
 
 - Root: [../../../README.md](../../../README.md)
-- Parent: [../ (sovereignty)](../)

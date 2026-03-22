@@ -1,6 +1,6 @@
 # Backup
 
-Part of the BlackRoad OS ecosystem.
+Backup strategy: local snapshots + offsite copies (Google Drive + DigitalOcean). Daily backup cron at 3am. rsync to 159.65.43.12 every 12 hours. rclone to gdrive-blackroad: every 6 hours.
 
 ## Contents
 
@@ -12,4 +12,3 @@ Part of the BlackRoad OS ecosystem.
 ## Tunnel Links
 
 - Root: [../../README.md](../../README.md)
-- Parent: [../ (infrastructure)](../)

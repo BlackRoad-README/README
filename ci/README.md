@@ -1,6 +1,6 @@
 # Ci
 
-Part of the BlackRoad OS ecosystem.
+CI/CD: GitHub Actions + Gitea Actions (act_runner on Octavia). Docker builds. Wrangler deploys. Security scanning.
 
 ## Contents
 

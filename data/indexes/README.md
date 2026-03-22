@@ -1,6 +1,6 @@
 # Indexes
 
-FTS5 and vector indexes.
+Search indexes: FTS5 (SQLite full-text), Qdrant (vector embeddings), search Workers (D1-backed).
 
 ## Contents
 
@@ -11,4 +11,3 @@ FTS5 and vector indexes.
 ## Tunnel Links
 
 - Root: [../../README.md](../../README.md)
-- Parent: [../ (data)](../)

@@ -1,6 +1,6 @@
 # Courses
 
-JOUR 4251, digital strategy, FINRA exam materials.
+Courses that inform BlackRoad strategy and products.
 
 ## Contents
 
@@ -11,4 +11,3 @@ JOUR 4251, digital strategy, FINRA exam materials.
 ## Tunnel Links
 
 - Root: [../../README.md](../../README.md)
-- Parent: [../ (education)](../)

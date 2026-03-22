@@ -1,8 +1,7 @@
 # Grafana
 
-Part of the BlackRoad OS ecosystem.
+Grafana (RoadMap fork) — monitoring dashboards. Visualizes fleet health, service status, resource usage, Ollama inference metrics.
 
 ## Tunnel Links
 
 - Root: [../../../README.md](../../../README.md)
-- Parent: [../ (monitoring)](../)

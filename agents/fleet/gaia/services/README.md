@@ -1,8 +1,7 @@
 # Services
 
-Running services and their configurations.
+Gaia's services are TBD. Will run on dedicated hardware once location is determined.
 
 ## Tunnel Links
 
 - Root: [../../../../README.md](../../../../README.md)
-- Parent: [../ (gaia)](../)

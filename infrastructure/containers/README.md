@@ -1,6 +1,6 @@
 # Containers
 
-Part of the BlackRoad OS ecosystem.
+Container infrastructure: Docker on Octavia (7 containers) and Lucidia (16 containers). 23 total containers across the fleet. Docker Swarm mode on Octavia for NATS.
 
 ## Contents
 
@@ -12,4 +12,3 @@ Part of the BlackRoad OS ecosystem.
 ## Tunnel Links
 
 - Root: [../../README.md](../../README.md)
-- Parent: [../ (infrastructure)](../)

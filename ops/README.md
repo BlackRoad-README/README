@@ -1,6 +1,6 @@
 # Ops
 
-17 ops agents — DevOps, deployment, monitoring.
+Operations: runbooks, incident response, monitoring, capacity planning. Fleet coordinator runs every 5 minutes. Adaptive defense every 5 minutes.
 
 ## Contents
 

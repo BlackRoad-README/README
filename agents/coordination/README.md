@@ -1,6 +1,6 @@
 # Coordination
 
-Part of the BlackRoad OS ecosystem.
+Agent coordination systems: how 200 agents communicate, delegate, and synchronize across the fleet.
 
 ## Contents
 
@@ -12,4 +12,3 @@ Part of the BlackRoad OS ecosystem.
 ## Tunnel Links
 
 - Root: [../../README.md](../../README.md)
-- Parent: [../ (agents)](../)

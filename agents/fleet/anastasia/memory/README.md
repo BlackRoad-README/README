@@ -1,8 +1,7 @@
 # Memory
 
-Persistent memory and knowledge storage.
+Anastasia is the Backup. She provides failover if Gematria goes down. Different datacenter ensures geographic redundancy.
 
 ## Tunnel Links
 
 - Root: [../../../../README.md](../../../../README.md)
-- Parent: [../ (anastasia)](../)

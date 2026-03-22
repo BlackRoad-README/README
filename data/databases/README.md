@@ -1,6 +1,6 @@
 # Databases
 
-Part of the BlackRoad OS ecosystem.
+6 database technologies: PostgreSQL (3 nodes), SQLite (400 local DBs), Cloudflare D1 (26 databases), Redis (Alice), Qdrant (Alice), InfluxDB (Cecilia + Aria).
 
 ## Contents
 
@@ -14,4 +14,3 @@ Part of the BlackRoad OS ecosystem.
 ## Tunnel Links
 
 - Root: [../../README.md](../../README.md)
-- Parent: [../ (data)](../)
