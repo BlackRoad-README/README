@@ -1,16 +1,17 @@
 # Blockchain
 
-Part of the BlackRoad OS ecosystem.
+## Active
 
-## Contents
+- **Bitcoin node** running on Lucidia (bitcoind container, ports 8332-8333)
 
-- [Mining](mining/)
-- [Roadchain](roadchain/)
-- [Roadcoin](roadcoin/)
-- [Smart Contracts](smart-contracts/)
-- [Tokenomics](tokenomics/)
-- [Wallets](wallets/)
+## Planned
 
-## Tunnel Links
+- [RoadChain](roadchain/) — Rust + PostgreSQL blockchain for audit trails
+- [RoadCoin](roadcoin/) — Python + FastAPI + Redis cryptocurrency
+- [Mining](mining/) — Infrastructure and algorithms
+- [Wallets](wallets/) — Key storage and management
+- [Smart Contracts](smart-contracts/) — Solidity truth ledger
+- [Tokenomics](tokenomics/) — Supply, distribution, vesting
 
-- Root: [../README.md](../README.md)
+→ [Products/finance](../products/tiers/5-finance/)
+→ [Lucidia/bitcoind](../infrastructure/fleet/lucidia/)
