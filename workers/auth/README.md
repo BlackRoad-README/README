@@ -1,8 +1,11 @@
-# Auth
+# Worker: auth
 
-Authentication and onboarding templates.
+**Wrangler name:** `name=blackroad-auth`
+
+Source: `~/blackroad-operator/workers/auth/`
 
 ## Tunnel Links
 
-- Root: [../../README.md](../../README.md)
-- Parent: [../ (workers)](../)
+- All workers: [../](../)
+- Infrastructure: [../../infrastructure/](../../infrastructure/)
+- Cloudflare: [../../vendor/cloudflare/](../../vendor/cloudflare/)

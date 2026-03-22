@@ -1,8 +1,7 @@
-# 8 Metaverse
+# Tier 8: metaverse
 
-Part of the BlackRoad OS ecosystem.
+RoadWorld (persistent AI NPCs, 80% creator share, physics-accurate)
 
-## Tunnel Links
-
-- Root: [../../../README.md](../../../README.md)
-- Parent: [../ (tiers)](../)
+→ [All tiers](../)
+→ [Pricing](../../pricing/)
+→ [Products overview](../../)

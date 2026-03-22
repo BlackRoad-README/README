@@ -1,8 +1,11 @@
-# Ai Gateway
+# Worker: ai-gateway
 
-Part of the BlackRoad OS ecosystem.
+**Wrangler name:** `name=blackroad-ai-gateway`
+
+Source: `~/blackroad-operator/workers/ai-gateway/`
 
 ## Tunnel Links
 
-- Root: [../../README.md](../../README.md)
-- Parent: [../ (workers)](../)
+- All workers: [../](../)
+- Infrastructure: [../../infrastructure/](../../infrastructure/)
+- Cloudflare: [../../vendor/cloudflare/](../../vendor/cloudflare/)

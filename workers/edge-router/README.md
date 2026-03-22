@@ -1,8 +1,11 @@
-# Edge Router
+# Worker: edge-router
 
-Part of the BlackRoad OS ecosystem.
+**Wrangler name:** `blackroad-edge-router`
+
+Source: `~/blackroad-operator/workers/edge-router/`
 
 ## Tunnel Links
 
-- Root: [../../README.md](../../README.md)
-- Parent: [../ (workers)](../)
+- All workers: [../](../)
+- Infrastructure: [../../infrastructure/](../../infrastructure/)
+- Cloudflare: [../../vendor/cloudflare/](../../vendor/cloudflare/)

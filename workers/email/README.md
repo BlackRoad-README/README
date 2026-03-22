@@ -1,8 +1,11 @@
-# Email
+# Worker: email
 
-Part of the BlackRoad OS ecosystem.
+**Wrangler name:** `blackroad-email`
+
+Source: `~/blackroad-operator/workers/email/`
 
 ## Tunnel Links
 
-- Root: [../../README.md](../../README.md)
-- Parent: [../ (workers)](../)
+- All workers: [../](../)
+- Infrastructure: [../../infrastructure/](../../infrastructure/)
+- Cloudflare: [../../vendor/cloudflare/](../../vendor/cloudflare/)

@@ -1,8 +1,7 @@
-# 1 Core
+# Tier 1: core
 
-Part of the BlackRoad OS ecosystem.
+Core OS, Prism Console, Operator, br CLI (90 tools)
 
-## Tunnel Links
-
-- Root: [../../../README.md](../../../README.md)
-- Parent: [../ (tiers)](../)
+→ [All tiers](../)
+→ [Pricing](../../pricing/)
+→ [Products overview](../../)

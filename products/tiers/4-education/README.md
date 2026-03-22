@@ -1,8 +1,7 @@
-# 4 Education
+# Tier 4: education
 
-Part of the BlackRoad OS ecosystem.
+RoadWork (adaptive tutoring, free K-12), Roadie (homework AI), Radius (science sims)
 
-## Tunnel Links
-
-- Root: [../../../README.md](../../../README.md)
-- Parent: [../ (tiers)](../)
+→ [All tiers](../)
+→ [Pricing](../../pricing/)
+→ [Products overview](../../)

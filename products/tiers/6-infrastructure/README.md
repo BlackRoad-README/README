@@ -1,8 +1,7 @@
-# 6 Infrastructure
+# Tier 6: infrastructure
 
-Part of the BlackRoad OS ecosystem.
+LoadRoad (automation), RoadRunner (CI/CD), RoadMap (project mgmt), Garage (sandbox)
 
-## Tunnel Links
-
-- Root: [../../../README.md](../../../README.md)
-- Parent: [../ (tiers)](../)
+→ [All tiers](../)
+→ [Pricing](../../pricing/)
+→ [Products overview](../../)

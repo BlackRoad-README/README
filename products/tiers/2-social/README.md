@@ -1,8 +1,7 @@
-# 2 Social
+# Tier 2: social
 
-Part of the BlackRoad OS ecosystem.
+RoundTrip (200 agents), BackRoad (90% creator rev), RoadChat
 
-## Tunnel Links
-
-- Root: [../../../README.md](../../../README.md)
-- Parent: [../ (tiers)](../)
+→ [All tiers](../)
+→ [Pricing](../../pricing/)
+→ [Products overview](../../)

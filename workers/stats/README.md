@@ -1,8 +1,11 @@
-# Stats
+# Worker: stats
 
-Part of the BlackRoad OS ecosystem.
+**Wrangler name:** `name=blackroad-stats`
+
+Source: `~/blackroad-operator/workers/stats/`
 
 ## Tunnel Links
 
-- Root: [../../README.md](../../README.md)
-- Parent: [../ (workers)](../)
+- All workers: [../](../)
+- Infrastructure: [../../infrastructure/](../../infrastructure/)
+- Cloudflare: [../../vendor/cloudflare/](../../vendor/cloudflare/)

@@ -1,8 +1,11 @@
-# Mesh
+# Worker: mesh
 
-5 mesh agents — network, P2P, distributed.
+**Wrangler name:** `name=blackroad-mesh`
+
+Source: `~/blackroad-operator/workers/mesh/`
 
 ## Tunnel Links
 
-- Root: [../../README.md](../../README.md)
-- Parent: [../ (workers)](../)
+- All workers: [../](../)
+- Infrastructure: [../../infrastructure/](../../infrastructure/)
+- Cloudflare: [../../vendor/cloudflare/](../../vendor/cloudflare/)

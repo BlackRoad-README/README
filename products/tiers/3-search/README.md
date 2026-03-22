@@ -1,8 +1,7 @@
-# 3 Search
+# Tier 3: search
 
-Part of the BlackRoad OS ecosystem.
+RoadView Search (AI-verified), Codex Infinity (recursive knowledge)
 
-## Tunnel Links
-
-- Root: [../../../README.md](../../../README.md)
-- Parent: [../ (tiers)](../)
+→ [All tiers](../)
+→ [Pricing](../../pricing/)
+→ [Products overview](../../)

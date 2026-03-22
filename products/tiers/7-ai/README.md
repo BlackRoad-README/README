@@ -1,8 +1,7 @@
-# 7 Ai
+# Tier 7: ai
 
-Part of the BlackRoad OS ecosystem.
+Lucidia (creator platform), Black Mode (autonomous), RoadMind (trinary logic)
 
-## Tunnel Links
-
-- Root: [../../../README.md](../../../README.md)
-- Parent: [../ (tiers)](../)
+→ [All tiers](../)
+→ [Pricing](../../pricing/)
+→ [Products overview](../../)
