@@ -1,8 +1,11 @@
 # Pixel Art
 
-50 pixel art assets on R2: images.blackroad.io/pixel-art/
+50 pixel art assets on R2: `images.blackroad.io/pixel-art/[name].png`
 
-## Tunnel Links
+Used in Pixel HQ (hq.blackroad.io) — 14-floor virtual office with agent assignments.
 
-- Root: [../../README.md](../../README.md)
-- Parent: [../ (creative)](../)
+Source: `~/blackroad-assets/pixel-art/` and Google Drive "PIXEL ASSETS FOR BLACKROAD METAVERSEEEE YAYYAA"
+
+→ [Brand/assets](../../brand/assets/pixel-art/)
+→ [RoadWorld](../../products/planned/roadworld/)
+→ [Creative overview](../)
