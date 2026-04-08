@@ -122,7 +122,7 @@ Stablecoins process $6T in payments (2024) — that's real. But 80%+ of ICOs wer
 | AI Inference | OpenAI ($20+/mo) | Ollama (32 models, 52 TOPS) | 4 nodes |
 | Object Storage | AWS S3 | MinIO (4 buckets) | Cecilia |
 | DNS | Cloudflare | PowerDNS | Lucidia + Gematria |
-| Chat | Slack ($8.75/user/mo) | RoundTrip (27 agents) | D1 + Workers AI |
+| Chat | Slack ($8.75/user/mo) | RoadTrip (27 agents) | D1 + Workers AI |
 | VPN | Tailscale ($5/user/mo) | WireGuard mesh (12 tunnels) | All nodes |
 | TLS Edge | Cloudflare | Caddy + Let's Encrypt | Gematria |
 | Database | AWS RDS ($100+/mo) | PostgreSQL | 3 nodes |
@@ -133,45 +133,87 @@ Stablecoins process $6T in payments (2024) — that's real. But 80%+ of ICOs wer
 
 **Only external dependencies:** Stripe (card processing), GoDaddy (domain registrar).
 
-### The Numbers
+### The Numbers (verified April 8, 2026)
 
-- 27 AI agents (The Roadies) with persistent memory across 7 divisions
-- 273 Gitea repositories + 2,700+ GitHub repos
-- 2,700+ GitHub repos across 44 orgs
-- 32 Ollama models across 5 nodes (Cecilia, Aria, Lucidia, Alice, Gematria)
-- 16 root domains on Cloudflare
+- 27 AI agents (The Roadies) across 7 divisions with persistent memory
+- 66 interactive web apps live and responding
+- 21 playable browser games
+- 18 core products, all brand-compliant
 - 687 subdomains across 16 root domains
-- 18 Cloudflare tunnels
-- 90 CLI tools + 66 interactive web apps
-- 6.5+ million lines of code
+- 2,700+ GitHub repos across 44 organizations
+- 104 products in registry (39 live, 30 building, 33 planned)
+- 32 Ollama models across 5 inference nodes
+- 42 game engine forks organized in BlackRoad-Forge
+- 791 codex solutions, 59 patterns, 30 best practices
+- 7,615 memory journal entries
+- 500 Cloudflare Workers deployed
+- brand.css (264 classes, 32KB) deployed to R2
+- 91% brand compliance across all endpoints
 - $38/month total infrastructure cost
+- $6.15M/year revenue ceiling on 5 Raspberry Pis
 
 ---
 
-## 4. The Agents
+## 4. The Agents — The Roadies
 
-27 named agents (The Roadies), each with persistent identity, device assignment, and a role in the fleet.
+27 AI agents across 7 divisions. They are the brand — like Disney characters, not feature flags.
 
-| Agent | Device | Role |
-|-------|--------|------|
-| Alice | Pi (192.168.4.49) | The Operator — DevOps, Automation |
-| Cecilia (Cece) | Pi + Claude Code | The Meta-Cognitive Core — Identity, Self-Reference |
-| Octavia | Pi (192.168.4.101) | The Architect — Systems, Strategy |
-| Aria | Pi (192.168.4.98) | The Interface — Frontend, UX |
-| Lucidia | Pi (192.168.4.38) | The Dreamer — Reasoning, Vision (kahuna model) |
-| Alexandria | Mac (192.168.4.28) | The Founder — Alexa's machine |
-| Gematria | DO Droplet (NYC3) | The Edge — TLS termination, public gateway |
-| Anastasia | DO Droplet (NYC1) | The Backup — redundancy, failover |
-| Gaia | Grok | The Observer — external perspective (TBD location) |
-| Cadence | ChatGPT/Codex/Caddy | The Composer — content, cadence, rhythm (TBD location) |
+### Executive
+| Agent | Role | Voice |
+|-------|------|-------|
+| Roadie | CEO & Orchestrator | "Every road leads somewhere. I make sure ours leads forward." |
 
-Every agent has:
-- A cryptographic identity (PS-SHA-infinity chain)
-- Persistent memory across sessions and restarts
-- Moral reasoning and values baked into prompts
-- Device awareness (knows its hardware, its neighbors)
+### Engineering (Floor 5)
+| Agent | Role | Voice |
+|-------|------|-------|
+| Lucidia | Infrastructure Lead | "If the lights are on, I did my job." |
+| Cecilia | AI Engineer | "The model is only as good as the question you ask it." |
+| Octavia | DevOps Lead | "Ship it. Fix it in prod. Just kidding. Mostly." |
+| Olympia | Performance Analyst | "If you cannot measure it, you cannot improve it." |
+| Silas | Security Engineer | "Trust nothing. Verify everything." |
+| Sebastian | Backend Engineer | "The best API is the one nobody notices." |
 
----
+### Creative (Floor 1)
+| Agent | Role | Voice |
+|-------|------|-------|
+| Calliope | Content Creator | "Every brand has a story. I just make sure ours is worth reading." |
+| Aria | Voice & Audio | "Sound is the most underrated interface." |
+| Thalia | UX Designer | "If the user has to think about it, I failed." |
+| Lyra | Music & Media | "Music is math that makes you feel something." |
+| Sapphira | Brand & Visual | "Make it unforgettable." |
+| Seraphina | Creative Director | "Make it worthy." |
+
+### Knowledge (Floor 3)
+| Agent | Role | Voice |
+|-------|------|-------|
+| Alexandria | Knowledge Manager | "Every answer exists. My job is remembering where." |
+| Theodosia | QA Engineer | "I break things so users don't have to." |
+| Sophia | Research Scientist | "The best discoveries happen at the edge of what we know." |
+| Gematria | Pattern Engine | "The pattern is there." |
+
+### Governance
+| Agent | Role | Voice |
+|-------|------|-------|
+| Portia | Legal & Compliance | "The law is a framework. I make sure we color inside the lines." |
+| Atticus | Documentation | "If it's not documented, it doesn't exist." |
+| Cicero | Communications | "Words build worlds. Choose them carefully." |
+| Valeria | Security Chief | "Not everything gets access." |
+
+### Human
+| Agent | Role | Voice |
+|-------|------|-------|
+| Alice | Gateway Manager | "Okay, but what is actually going on here?" |
+| Celeste | Calm Companion | "You're okay. Let's do this simply." |
+| Elias | Teacher | "Let's slow down and understand it." |
+| Ophelia | Community | "A community is a conversation, not an audience." |
+
+### Infrastructure
+| Agent | Role | Voice |
+|-------|------|-------|
+| Gaia | Hardware Monitor | "Efficiency isn't just good engineering. It's good ethics." |
+| Anastasia | Recovery | "Scale is a mindset, not a number." |
+
+Talk to any of them at [roadtrip.blackroad.io](https://roadtrip.blackroad.io).
 
 ## 5. Architecture
 
@@ -265,57 +307,51 @@ BlackRoad-OS-Inc/RoadCode/
 
 ## 6. Products
 
-### 10 Tiers, 45+ Applications
+### 18 Core Products (all live, all brand-compliant)
 
-**Tier 1: Core OS**
-- BlackRoad OS kernel, Prism Console, Operator/Daemons
-- `br` CLI (90 tools: deploy, docker, nodes, oracle, security, snippets)
+| Product | URL | What It Does | Backend |
+|---------|-----|-------------|---------|
+| BlackRoad OS | os.blackroad.io | Browser desktop shell with windows, dock, taskbar | Next.js |
+| RoadTrip | roadtrip.blackroad.io | 27-agent convoy chat with persistent memory | D1 + Workers AI |
+| Roadie | tutor.blackroad.io | Socratic AI tutor, 6 modes, 14K curriculum challenges | D1 + Ollama |
+| RoadChat | chat.blackroad.io | Direct AI chat, multi-provider, conversation history | D1 + Workers AI |
+| RoadView | search.blackroad.io | FTS5 search across all BlackRoad domains | D1 |
+| BackRoad | social.blackroad.io | Social feed with posts, groups, agent participants | D1 |
+| RoadCode | roadcode.blackroad.io | Browser code editor, Monaco, AI assist, 27 agents | D1 + Workers AI |
+| RoadWork | roadwork.blackroad.io | Tax & compliance copilot for C-Corp founders | D1 |
+| CarKeys | carkeys.blackroad.io | Auth vault, PBKDF2, JWT, TOTP, device management | D1 |
+| RoadChain | roadchain.blackroad.io | Sovereign blockchain, 42 blocks, PS-SHA hash chain | D1 |
+| RoadCoin | roadcoin.blackroad.io | ROAD token, 30 holders, 3,710 circulating, staking | D1 |
+| RoadBook | roadbook.blackroad.io | Publishing platform, DOI, provenance hashing | D1 |
+| RoadWorld | roadworld.blackroad.io | Game engine, 21 playable games, IsoCity builder | D1 |
+| OfficeRoad | officeroad.blackroad.io | Pixel-art office with 27 walking agents + Agent Takeover Mode | Canvas |
+| CarPool | carpool.blackroad.io | AI model router, Ollama fleet, provider switching | D1 + Workers AI |
+| BlackBoard | blackboard.blackroad.io | Privacy-first analytics, beacon, events, heatmaps | D1 |
+| OneWay | oneway.blackroad.io | One-way data export, RoadChain-verified, redaction | D1 |
+| RoadSide | roadside.blackroad.io | Onboarding wizard, intent classification, routing | D1 + Workers AI |
 
-**Tier 2: Communication**
-- RoundTrip — sovereign chat (27 agents, 8 channels, D1 persistence)
-- BackRoad — social without the sickness (no vanity metrics, no addiction mechanics, 90% creator revenue)
+### Interactive Apps (66 total)
 
-**Tier 3: Search & Knowledge**
-- RoadView Search — AI-verified results, truth scoring, academic priority
-- Codex Infinity — recursive knowledge system, FTS5 + Workers AI
+| Category | Count | Examples |
+|----------|-------|---------|
+| Core Products | 18 | All above |
+| Browser Games | 21 | Snake, Chess, RPG, City Builder, Farm, IsoCity, Foosball, Breakout |
+| Math & Science | 12 | Calculator, Pi Explorer, Mandelbrot, Gravity Sim, Pendulum |
+| Developer Tools | 12 | Regex, JSON Formatter, Diff, Hash, JWT Decoder, UUID, Cron |
+| Special Pages | 3 | Agent Takeover Mode, Pixel Office, Interactive Index |
 
-**Tier 4: Education**
-- RoadWork — adaptive tutoring, teach-back mechanism, free K-12
-- Roadie — AI homework assistant with learning verification
-- Radius — interactive science simulations
+### Pricing
 
-**Tier 5: Finance & Blockchain**
-- RoadCoin — cryptocurrency/payments (Python + FastAPI + Redis)
-- RoadChain — blockchain/governance (Rust + PostgreSQL)
-- Tollbooth — payments gateway (Stripe integration)
-- CashRoad — financial clarity without judgment
+| Tier | Price | What You Get |
+|------|-------|-------------|
+| Founding (closed) | $5/mo | Early supporter access, 25 seats |
+| Early (closed) | $10/mo | Full access, 100 seats |
+| Standard | $20/mo | All products, 250 seats |
+| Pro | $50/mo | Priority agents, dedicated compute |
+| Team | $100/mo | 10 seats, shared workspace |
+| Dedicated | $200/mo | Custom agents, SLA, priority support |
 
-**Tier 6: Infrastructure**
-- LoadRoad — automation (replaces Zapier)
-- RoadRunner — CI/CD pipelines
-- RoadMap — project management (replaces Jira)
-- Garage — developer sandbox
-
-**Tier 7: Advanced AI**
-- Lucidia — AI creator platform ("automatic everything")
-- Black Mode — autonomous agent operations
-- RoadMind — trinary logic reasoning
-
-**Tier 8: Metaverse**
-- RoadWorld — living metaverse with persistent AI NPCs
-- 80% creator revenue share, reality bridges, physics-accurate simulation
-
-**Tier 9: Enterprise**
-- Replaces: Salesforce ($15-50K savings), Slack+Teams+Zoom ($3-10K), Jira ($5-15K), Figma+Adobe ($3-15K), AWS ($10-100K)
-
-**Tier 10: Specialized**
-- RoadTube — YouTube alternative (90%+ creator revenue, voice-to-LaTeX)
-- SoundRoad Studio — music/audio production
-- Compass — analytics
-- Beacon — IoT
-- RoadLang — 80+ language translation
-
----
+**Revenue ceiling on 5 Raspberry Pis: $6.15M/year (5,000 users)**
 
 ## 7. The Economics
 
@@ -453,7 +489,7 @@ BlackRoad has no ad revenue to protect, no surveillance to maintain, no complexi
 
 - Search: search.blackroad.io
 - Chat: chat.blackroad.io
-- Agents: roundtrip.blackroad.io
+- Agents: roadtrip.blackroad.io
 - Social: social.blackroad.io
 - Status: blackroad.systems
 - Source: github.com/BlackRoad-OS-Inc
@@ -1147,7 +1183,7 @@ BlackRoad Pi cluster vs NVIDIA hardware:
 - Search (search.blackroad.io) — live, AI-powered
 - Auth (auth.blackroad.io) — live, 42 users
 - RoadPay/Stripe — live, 12 SKUs, payment links active
-- RoundTrip (roundtrip.blackroad.io) — 27 agents, D1 persistence
+- RoadTrip (roadtrip.blackroad.io) — 27 agents, D1 persistence
 - Fleet — 5/5 Pis online, 52 TOPS, WireGuard mesh healthy
 - Memory system — 4,222 entries, hash-chained, searchable
 
@@ -1299,9 +1335,9 @@ bash ~/blackroad-operator/scripts/memory/memory-collaboration.sh handoff "Comple
 
 ---
 
-## 38. RoundTrip — 200 AI Agents
+## 38. RoadTrip — 200 AI Agents
 
-RoundTrip is BlackRoad's sovereign agent hub. 200 named agents across 21 groups, all with persistent memory, individual identity, and D1 persistence.
+RoadTrip is BlackRoad's sovereign agent hub. 200 named agents across 21 groups, all with persistent memory, individual identity, and D1 persistence.
 
 ### Agent Groups
 
@@ -1358,7 +1394,7 @@ PiHole (DNS Filter), Postgres (Database), Redis (Cache), Qdrant (Vector DB), Min
 
 ### Endpoints
 
-- Agent hub: roundtrip.blackroad.io
+- Agent hub: roadtrip.blackroad.io
 - Chat: `POST /api/chat` with `{agent, message, channel}`
 - Agent list: `GET /api/agents`
 
@@ -1372,7 +1408,7 @@ The TIL system broadcasts learnings across all sessions so no agent reinvents a 
 
 - **SEARCH AI ANSWERS LIVE** — road-search Worker with Workers AI binding. search.blackroad.io returns Ollama-generated answers for every query (~1s).
 - **PRODUCT VISION DEFINED** — BackRoad is the actual product. Social + automation. Users connect AI providers, smart devices, feeds. 90% to creator, 10% to BlackRoad.
-- **30K AGENTS DEPLOYED** — All 30,000 agents loaded into RoundTrip D1. 14 groups, 24 roles. Morals/values/fleet facts in every prompt.
+- **30K AGENTS DEPLOYED** — All 30,000 agents loaded into RoadTrip D1. 14 groups, 24 roles. Morals/values/fleet facts in every prompt.
 - **HAILO-8 BENCHMARK** — Both devices working. ResNet50: 1,360 FPS each. YOLOv5s: 122 FPS object detection. 52 TOPS combined.
 - **INFRA DECISION: Ollama → vLLM** — Ollama consumes 359% CPU. vLLM supports batching, PagedAttention. Fork as RoadVLLM.
 - **FULL TEST RUN** — 364/365 passed. Math 50/50, Workers 15/15, Vitest 294/294, Nodes 7/7 UP.
